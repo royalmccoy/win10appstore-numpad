@@ -1,3 +1,13 @@
+## I have no idea where to start for this project, as I am currently (December 2017) at "FreeCodeCamp" level.
+
+## If it's here, though, I won't forget, and maybe someone will find it and can provide some useful information :)
+
+
+
+
+
+
+## I'll read this later...
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/royalmccoy/win10appstore-numpad/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
